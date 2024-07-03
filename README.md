@@ -19,7 +19,7 @@ This project aims to:
 
 JobMatch AI is used by job seekers to find matching job opportunities and by employers to identify suitable candidates. It benefits job seekers by providing personalized job recommendations and cover letters, and helps employers streamline their recruitment process.
 
-![Job Search Future AI](https://commons.wikimedia.org/wiki/File:Solarpunk,_a_positive_possible_near-future.jpg)
+![Job Search Future AI](https://upload.wikimedia.org/wikipedia/commons/8/8c/Solarpunk%2C_a_positive_possible_near-future.jpg)
 
 ### Usage Example
 
@@ -58,4 +58,4 @@ To grow, JobMatch AI can:
 
 * Inspired by the [Elements of AI](https://buildingai.elementsofai.com/) course.
 * Special thanks to the open-source community for providing valuable resources and tools.
-* [Job Search image by Job Search Experts](https://commons.wikimedia.org/wiki/File:Solarpunk,_a_positive_possible_near-future.jpg) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+* [Job Search image by Job Search Experts](https://upload.wikimedia.org/wikipedia/commons/8/8c/Solarpunk%2C_a_positive_possible_near-future.jpg) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
